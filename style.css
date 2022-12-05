@@ -1,0 +1,78 @@
+.rating{
+    background-color: green;
+    
+}
+.container{
+  
+}
+#main{
+    height: 200px;
+    width: 100%;
+}
+.col{
+    height: 50% !important;
+}
+.movie{
+    height: 500px;
+    overflow: hidden;
+    background-color: white;
+}
+img{
+    height: 400px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.979);
+}
+*{
+    color: rgb(11, 10, 10);
+    font-family: sans-serif;
+}
+.card{
+    border: none;
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+
+#carouselExampleControls{
+    height: 400px;
+}
+.search{
+    z-index:9999999;
+    position: sticky;
+    top: 20px;
+}
+.search-icon{
+    background-color: rgba(15, 10, 40, 0.902);
+    color: white;
+}
+.btn:hover { 
+    background-color: rgba(19, 15, 62, 0.804);
+    color: aliceblue;
+ }
+
+ input{
+    border: none;
+   
+ }
+#btns{
+    top: -70%;
+     left: 10%;
+   
+}
+.btn-block{
+    background-color: rgb(223, 111, 71);
+    border-radius: 40px;
+    letter-spacing: 1px;
+    color: white;
+}
+hr{
+    border: 1px solid rgb(244, 239, 239);
+}
